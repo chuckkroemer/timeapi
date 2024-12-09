@@ -4,6 +4,7 @@
   "description": "Sample API",
   "main": "index.js",
   "scripts": {
+    "build": "npx tsc",
     "test": "jest"
   },
   "author": "Chuck Kroemer",
